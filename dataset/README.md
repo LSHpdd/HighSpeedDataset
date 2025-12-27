@@ -2,7 +2,7 @@
 
 ##### ##数据集说明 
 
-##### 本仓库包含 4GB 高速路场景目标检测数据集，因 Gitee 免费版单文件上传限制（≤100MB），已拆分为多个 90MB 分包存储。
+##### 本仓库包含 4GB 高速路场景目标检测数据集，因单文件上传限制（≤25MB），已拆分为多个 25MB 分包存储。
 
 ##### -分包命名：`HighSpeedDatasate_part_aa`、`HighSpeedDatasate_part_ab`、`HighSpeedDatasate_part_ac`... 
 
